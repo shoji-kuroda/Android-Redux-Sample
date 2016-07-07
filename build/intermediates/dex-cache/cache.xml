@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0-beta1_e57e09d0a8ffeb4e23c51c893b4378629cdad9f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0-beta1_08883ea9cc1826d52d53611fbe89532e51f46b6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="a2bcc25d161a84d8eabde61806dad90029b3ff15">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha3_0f9779d1a4a3f4ae80feae46b8be584a628ca594/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="56547399c271b3681dc9ed67bf4e95d5de1f3106">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_32739cfe9ec94a74e2dc448702341a237c167369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="9549f889fd6c6d9ec63cde903472e7b4713e91e8">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_15f28536687513a1f1c35d584fc0ca76a899b51c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.0.0-beta1/support-annotations-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-beta1_f4f27e4d4b7500d69cf56d942bd131028a368044/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android/Android Studio 2.2 Preview3.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="29e762ef46d0cb2b648eb3d25eeb2b29853579fe">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha3_14580976bb70596758445a7b4d6db14f8823e023/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/exploded-aar/com.jakewharton.timber/timber/4.1.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="aba9abcfe7ce6d935add115f5ce20254b037d583">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.timber-timber-4.1.2_049d0a5fde39a1b966c31345637df10f6794b8f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/libs/internal_impl-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-beta1_7f107a71f00d64195611f8ac350f32c6349412f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0-beta1_9b0667e3399f2a195de92467a3eebc3e185f07af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="/Users/kuroda02/Dev/android/Android-Redux-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-beta1_c60d2342878e877652b3e4434c45824fff1a1f17/classes.dex" />
+    </item>
+
+</items>
