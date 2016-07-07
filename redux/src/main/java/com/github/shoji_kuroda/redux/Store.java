@@ -41,7 +41,7 @@ public abstract class Store<A extends Action, S extends State> {
             this.subscribers = new ArrayList<>(LISTENERS_INITIAL_CAPACITY);
             this.isReducing = new AtomicBoolean(false);
 
-            // deafult dispatch
+            // default dispatch
             this.next.add(new Dispatcher<A>() {
                 @Override
                 public void dispatch(A action) {
